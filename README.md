@@ -30,19 +30,13 @@ With a strong foundation in software development principles alongside years of r
 
 ---
 
-### 📌 Featured Projects
-*(Replace these with 2–3 of your best university or personal projects)*
-
-- **[Project Name 1](https://github.com/YOUR-USERNAME/repo-1)** — Brief one-line description of what it does and the tech used.
-- **[Project Name 2](https://github.com/YOUR-USERNAME/repo-2)** — Brief one-line description of what it does and the tech used.
 
 ---
 
 ### 📊 GitHub Stats
-*(Replace `YOUR-USERNAME` with your actual GitHub handle to activate these cards)*
 
-![Jon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+![Jon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlose90-burst&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jlose90-burst&layout=compact&theme=radical)
 
 ---
 

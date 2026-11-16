@@ -18,7 +18,7 @@ With a strong foundation in software development principles alongside years of r
 ---
 
 ### 💻 Tech Stack & Tools
-*(Customize these badges to match your strongest languages and frameworks!)*
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)

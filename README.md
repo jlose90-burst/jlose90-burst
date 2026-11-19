@@ -1,4 +1,4 @@
-# Hello!, I'm Jon Lose 👋
+# Hello! I'm Jon Lose 👋
 
 ### Software Engineering Graduate | Focused, Driven & Eager to Build
 

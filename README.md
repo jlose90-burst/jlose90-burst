@@ -16,6 +16,8 @@ With a strong foundation in software development principles alongside years of r
 - ⚡ **Fun fact:** Outside of coding, I've spent the last few years working full-time as a baker—so I know a thing or two about early mornings, precision, and working to tight deadlines!
 
 ---
+[![LairBnB Pokémon Card](https://github.com/jlose90-burst/jlose90-burst/blob/main/lairbnb-pokemon-card.jpg?raw=true)](https://github.com/jlose90-burst/Group_AirBNB_Project)
+---
 
 ### 💻 Tech Stack & Tools
 

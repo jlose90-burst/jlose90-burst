@@ -1,19 +1,21 @@
-# Hello! I'm Jon Lose 👋
+# Hi! I'm Jon Lose 👋
 
-### Software Engineering Graduate | Focused, Driven & Eager to Build
+### Software Engineer | Python · Java · Kotlin
 
-I hold a **First-Class BSc in Software Engineering** from **Bournemouth University** and am currently seeking **Graduate Software Engineering roles** (On-site or Hybrid around the Greater Bournemouth area). 
+First-class Software Engineering graduate (Bournemouth University) currently in the trenches at the Makers full-stack bootcamp and am currently seeking **Graduate Software Engineering roles**
 
-With a strong foundation in software development principles alongside years of real-world experience in high-pressure, customer-facing, and team-oriented environments, I bring both technical rigor and strong communication skills to every project I take on.
+These days I spend my time writing Python and Java, building full-stack apps with Flask and PostgreSQL, and writing clean, test-driven code that won't make future-me cry.
 
 ---
-
 ### 🚀 About Me
-- 🎓 **Education:** BSc (Hons) Computer Software Engineering (First-Class Honours) — Bournemouth University
-- 🔭 **Currently looking for:** Graduate / Junior Software Developer & Engineering opportunities
+- 🎓 **Education:** BSc (Hons) Software Engineering (First-Class Honours) — Bournemouth University  
+  Makers Academy full-stack bootcamp & Java specialism
+- 🔭 **Open to:** Graduate and junior software engineering opportunities
+- 💻 **Focus:** Full-stack web applications, Test-Driven Development, and clean, maintainable code
+- 🛠️ **Stack I use:** Python, Flask, PostgreSQL, Java, Kotlin, HTML/CSS, Git, Docker
 - 🌱 **Always learning:** Expanding my toolkit across modern web development, cloud technologies, and software architecture
-- 🛠️ **Tools I enjoy:** VS Code, Git, GitHub, and AI-assisted developer workflows (GitHub Copilot, Claude)
-- ⚡ **Fun fact:** Outside of coding, I've spent the last few years working full-time as a baker—so I know a thing or two about early mornings, precision, and working to tight deadlines!
+- 🍳 **Outside of code:** Half-Japanese home cook. Hosted bao pop-up evenings featuring slow-braised glazed pork belly bao buns, and brunch clubs serving chicken and waffles.
+
 
 ---
 ### 🃏 Links - *Click a Card, Any Card.* (Linkedin and Project Repos)

@@ -16,7 +16,7 @@ With a strong foundation in software development principles alongside years of r
 - ⚡ **Fun fact:** Outside of coding, I've spent the last few years working full-time as a baker—so I know a thing or two about early mornings, precision, and working to tight deadlines!
 
 ---
-### 🃏 Links
+### 🃏 Links - Linkedin and Project Repos
 <a href="https://www.linkedin.com/in/jon-lose/"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/Linkedin.jpg" width="260" alt="Placeholder2"></a> <a href="https://github.com/jlose90-burst/Group_AirBNB_Project"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/Lair_bnb.jpg" width="260" alt="LairBnB Pokémon Card"></a> <a href="https://www.linkedin.com/in/jon-lose/"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/placeholder.jpg" width="265" alt="Placeholder"></a> 
 
 

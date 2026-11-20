@@ -17,7 +17,7 @@ With a strong foundation in software development principles alongside years of r
 
 ---
 ### 🃏 Links
-<a href="https://github.com/jlose90-burst/Group_AirBNB_Project"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/Lair_bnb.jpg" width="260" alt="LairBnB Pokémon Card"></a> <a href="https://www.linkedin.com/in/jon-lose/"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/placeholder.jpg" width="260" alt="Placeholder"></a> <a href="https://www.linkedin.com/in/jon-lose/"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/Linkedin.jpg" width="260" alt="Placeholder2"></a>
+<a href="https://www.linkedin.com/in/jon-lose/"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/Linkedin.jpg" width="260" alt="Placeholder2"></a> <a href="https://github.com/jlose90-burst/Group_AirBNB_Project"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/Lair_bnb.jpg" width="260" alt="LairBnB Pokémon Card"></a> <a href="https://www.linkedin.com/in/jon-lose/"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/placeholder.jpg" width="260" alt="Placeholder"></a> 
 
 
 ---

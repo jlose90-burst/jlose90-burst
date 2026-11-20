@@ -1,3 +1,6 @@
+<img width="500" height="360" alt="bear" src="https://github.com/user-attachments/assets/8974cc98-4e84-4b10-8b79-e501fb33bba2" />
+
+# Hi! I'm Jon
 
 
 

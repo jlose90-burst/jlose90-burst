@@ -16,7 +16,9 @@ With a strong foundation in software development principles alongside years of r
 - ⚡ **Fun fact:** Outside of coding, I've spent the last few years working full-time as a baker—so I know a thing or two about early mornings, precision, and working to tight deadlines!
 
 ---
-[![LairBnB Pokémon Card](https://github.com/jlose90-burst/jlose90-burst/blob/main/lairbnb-pokemon-card.jpg?raw=true)](https://github.com/jlose90-burst/Group_AirBNB_Project)
+<a href="https://github.com/jlose90-burst/Group_AirBNB_Project"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/Lair_bnb.jpg" width="250" alt="LairBnB Pokémon Card"></a> <a href="https://github.com/jlose90-burst/Group_AirBNB_Project](https://www.linkedin.com/in/jon-lose/)"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/placeholder.jpg" width="250" alt="LairBnB Pokémon Card"></a> <a href="https://github.com/jlose90-burst/Group_AirBNB_Project](https://www.linkedin.com/in/jon-lose/)"><img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/placeholder.jpg" width="250" alt="LairBnB Pokémon Card"></a>
+
+
 ---
 
 ### 💻 Tech Stack & Tools
@@ -32,5 +34,4 @@ With a strong foundation in software development principles alongside years of r
 
 ---
 
-### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jon-lose)
+

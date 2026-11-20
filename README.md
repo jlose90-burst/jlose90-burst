@@ -1,4 +1,5 @@
-# Hi! I'm Jon Lose 👋
+
+
 
 ### Software Engineer | Python · Java · Kotlin
 
@@ -15,6 +16,8 @@ These days I spend my time writing Python and Java, building full-stack apps wit
 - 🛠️ **Stack I use:** Python, Flask, PostgreSQL, Java, Kotlin, HTML/CSS, Git, Docker
 - 🌱 **Always learning:** Expanding my toolkit across modern web development, cloud technologies, and software architecture
 - 🍳 **Outside of code:** Half-Japanese home cook. Hosted bao pop-up evenings featuring slow-braised glazed pork belly bao buns, and brunch clubs serving chicken and waffles.
+
+<img src="https://raw.githubusercontent.com/jlose90-burst/jlose90-burst/main/baos.jpg" width="780" alt="Bao buns">
 
 
 ---
